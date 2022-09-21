@@ -1,0 +1,131 @@
+[
+  {
+    "name": "lace blouse",
+    "price": 50,
+    "company": "carusel",
+    "rating": 3
+  },
+  {
+    "name": "silky blouse",
+    "price": 109,
+    "company": "bajaj",
+    "rating": 5
+  },
+  {
+    "name": "cotton skirt",
+    "price": 309,
+    "company": "smart time",
+    "rating": 4.9
+  },
+  {
+    "name": "brocade",
+    "price": 125,
+    "company": "florence",
+    "rating": 4.8
+  },
+  {
+    "name": "polo shirt",
+    "price": 40,
+    "company": "carusel",
+    "rating": 3.6
+  },
+  {
+    "name": "Lacy gown",
+    "price": 42,
+    "company": "bajaj",
+    "rating": 4.55
+  },
+  {
+    "name": "ankara",
+    "price": 23,
+    "company": "smart time"
+  },
+  {
+    "name": "wedding gown",
+    "price": 59,
+    "featured": true,
+    "company": "florence"
+  },
+  {
+    "name": "coat",
+    "price": 39,
+    "featured": true,
+    "company": "carusel"
+  },
+
+  {
+    "name": "plain shirt",
+    "price": 99,
+    "company": "bajaj"
+  },
+  {
+    "name": "minimal sirt",
+    "price": 31,
+    "featured": true,
+    "company": "smart time"
+  },
+  {
+    "name": "logging poster",
+    "price": 30,
+    "company": "florence"
+  },
+  {
+    "name": "rounded wear",
+    "price": 30,
+    "company": "carusel"
+  },
+  {
+    "name": "plastic shoes",
+    "price": 109,
+    "company": "carusel"
+  },
+  {
+    "name": "couple set",
+    "price": 129,
+    "company": "bajaj"
+  },
+  {
+    "name": "suede shoes",
+    "price": 15,
+    "company": "smart time"
+  },
+  {
+    "name": "utopia wear",
+    "price": 79,
+    "featured": true,
+    "company": "florence"
+  },
+  {
+    "name": "console wear",
+    "price": 120,
+    "featured": true,
+    "company": "carusel"
+  },
+  {
+    "name": "beddy wear",
+    "price": 25,
+    "company": "florence"
+  },
+  {
+    "name": "forest boots",
+    "price": 15,
+    "company": "smart time"
+  },
+  {
+    "name": "forest boots",
+    "price": 40,
+    "company": "bajaj"
+  },
+  {
+    "name": "bambi gown",
+    "price": 23,
+    "featured": true,
+    "company": "carusel"
+  },
+  {
+    "name": "log boots",
+    "price": 23,
+    "featured": true,
+    "company": "florence"
+  }
+]
